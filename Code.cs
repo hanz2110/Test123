@@ -16,3 +16,5 @@ class Program
         } while (keyInfo.Key != ConsoleKey.Escape); // Exit when Esc is pressed
     }
 }
+
+// Add comment by hanz2110
